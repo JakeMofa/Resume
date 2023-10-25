@@ -2,8 +2,13 @@
 
 
 
-JAKE  MOFA
-Software Engineer
+JAKE  MOFA                                                                                                                          jakemofa.com
+                                                                                                                                    Jakemofa@gmail.com
+                                                                                                                                    209-362-7518
+                                                                                                                                    GitHub Profile
+                                                                                                                                    LinkedIn
+                                                                                                                                    
+
 Innovative and solutions-focused Software Engineer skilled in both front-end and back-end architectures. 
 Delivers exceptional digital experiences using advanced algorithms, data structures, and modern web technologies.
 Driven to continuously learn and stay at the forefront of technology.
@@ -49,6 +54,11 @@ Driven to continuously learn and stay at the forefront of technology.
 
 
 
+                                                                                                    Education
+                                                                                                    B.S. Computer Science*
+                                                                                                    San Jose State University (SJSU) | January 2022 -2024
+                                                                                                    A.S. Computer Science*
+                                                                                                    San Joaquin Delta College | January 2020 - 2022
 
 Experience
 
